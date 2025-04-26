@@ -1,0 +1,9 @@
+python-telegram-bot
+pyTelegramBotAPI
+flask
+sqlalchemy
+requests
+yt-dlp
+pandas
+instaloader
+psycopg2-binary 
